@@ -233,3 +233,10 @@ nav ol li a {
     padding-top: 30px;
     padding-bottom: 130px;
 }
+
+.social-icon i:hover {
+    cursor: pointer;
+    color: gray;
+    transition: 0.3s;
+
+}
