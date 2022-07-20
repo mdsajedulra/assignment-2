@@ -6,30 +6,23 @@ body {
     font-family: 'Poppins', sans-serif;
     display: flex;
     justify-content: center;
-    /* width: 80%;
-    margin: 0 auto; */
 }
 
 .container {
     width: 1320px;
-    /* padding: 50px 140px 0px 140px; */
-
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+/* hader part style start */
 header {
-
-
-    /* height: 90vh; */
     display: flex;
     justify-content: center;
     margin: 0 auto;
     background: #161616;
     border-radius: 30px;
     color: white;
-
 }
 
 .header-content {
@@ -83,8 +76,6 @@ main {
     display: flex;
     gap: 24px;
     justify-content: center;
-
-    /* padding: 0px 140px; */
     margin-top: 130px;
 }
 
