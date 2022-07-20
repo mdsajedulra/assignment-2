@@ -149,7 +149,7 @@ responsive for mobile style */
 
 
     .side-menu {
-        background-color: #FFFFFF;
+
         margin-right: 0;
         height: auto;
         width: 100%;
@@ -171,8 +171,13 @@ responsive for mobile style */
         width: 100%;
     }
 
+    .upcoming-match {
+        width: 334px;
+    }
+
     .upcoming-matchs {
-        width: 100%;
+        width: 334px;
+        display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
 

@@ -64,6 +64,7 @@ header {
     text-decoration: none;
     padding: 10px 20px;
     color: white;
+    border-radius: 5px;
 }
 
 /* blog section start */
@@ -165,6 +166,11 @@ main {
 .blog-icon {
     display: flex;
 
+
+}
+
+.fa-comment-dots {
+    margin-left: 30px;
 }
 
 .only-tablet-button {
